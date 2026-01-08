@@ -1,0 +1,7 @@
+/app/__pycache__
+/app/routers/__pycache__
+/app/tests/__pycache__
+/venv
+.vscode
+fastapi.code-workspace
+.env
