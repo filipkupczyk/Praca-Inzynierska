@@ -56,9 +56,9 @@ uvicorn app.main:app --reload
 
 ## Frontend
 
-1.Instalacja zależności:
+1.Instalacja zależności: 
 npm install
-2. Budowa frontednu:
+2. Budowa frontednu: 
 npm run build
-3. Uruchomienie frontendu:
+3. Uruchomienie frontendu: 
 npm run serve
